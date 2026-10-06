@@ -36,4 +36,5 @@ Digital Adoption % = Σ(digital adoption % × unique users) ÷ Σ unique users
 ## Files
 - `Tayseer_Capstone_Executive_Story.pptx` – presentation
 - `Tayseer_Capstone_Executive_Story.pdf` – PDF version
+- `Tayseer - Digital Adoption.pbix` – the dashboard version
 - `README.md`
