@@ -27,16 +27,17 @@ Digital Adoption % = Σ(digital adoption % × unique users) ÷ Σ unique users
 - Python (pandas)
 - Microsoft PowerPoint
 
-## Team
-- Hamed Ahmed Aldkhyyal
-- Saud Mansour Alajmi
-- Fahad Abdullah Alanazi
-
-SDAIA Academy GitHub: https://github.com/SDAIAAcademy
-
 
 ## Files
 - `Tayseer_Capstone_Executive_Story.pptx` – presentation
 - `Tayseer_Capstone_Executive_Story.pdf` – PDF version
 - `Tayseer - Digital Adoption.pbix` – the dashboard version
 - `README.md`
+
+
+## Team
+- Hamed Ahmed Aldkhyyal
+- Saud Mansour Alajmi
+- Fahad Abdullah Alanazi
+
+SDAIA Academy GitHub: https://github.com/SDAIAAcademy
